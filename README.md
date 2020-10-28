@@ -29,3 +29,4 @@ As you can see the new customer has sucessfully been added to the main screen.
 ![Main App](https://github.com/connorblum/CRUD-App/blob/master/add3.JPG)
 
 This screenshot shows the new customer also being updated within the SQL database.
+![Main App](https://github.com/connorblum/CRUD-App/blob/master/sql1.JPG)
